@@ -1,0 +1,487 @@
+[
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/builder.cc.o -c /Users/fashion/project/leveldb/db/builder.cc",
+  "file": "/Users/fashion/project/leveldb/db/builder.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/c.cc.o -c /Users/fashion/project/leveldb/db/c.cc",
+  "file": "/Users/fashion/project/leveldb/db/c.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/db_impl.cc.o -c /Users/fashion/project/leveldb/db/db_impl.cc",
+  "file": "/Users/fashion/project/leveldb/db/db_impl.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/db_iter.cc.o -c /Users/fashion/project/leveldb/db/db_iter.cc",
+  "file": "/Users/fashion/project/leveldb/db/db_iter.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/dbformat.cc.o -c /Users/fashion/project/leveldb/db/dbformat.cc",
+  "file": "/Users/fashion/project/leveldb/db/dbformat.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/dumpfile.cc.o -c /Users/fashion/project/leveldb/db/dumpfile.cc",
+  "file": "/Users/fashion/project/leveldb/db/dumpfile.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/filename.cc.o -c /Users/fashion/project/leveldb/db/filename.cc",
+  "file": "/Users/fashion/project/leveldb/db/filename.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/log_reader.cc.o -c /Users/fashion/project/leveldb/db/log_reader.cc",
+  "file": "/Users/fashion/project/leveldb/db/log_reader.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/log_writer.cc.o -c /Users/fashion/project/leveldb/db/log_writer.cc",
+  "file": "/Users/fashion/project/leveldb/db/log_writer.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/memtable.cc.o -c /Users/fashion/project/leveldb/db/memtable.cc",
+  "file": "/Users/fashion/project/leveldb/db/memtable.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/repair.cc.o -c /Users/fashion/project/leveldb/db/repair.cc",
+  "file": "/Users/fashion/project/leveldb/db/repair.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/table_cache.cc.o -c /Users/fashion/project/leveldb/db/table_cache.cc",
+  "file": "/Users/fashion/project/leveldb/db/table_cache.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/version_edit.cc.o -c /Users/fashion/project/leveldb/db/version_edit.cc",
+  "file": "/Users/fashion/project/leveldb/db/version_edit.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/version_set.cc.o -c /Users/fashion/project/leveldb/db/version_set.cc",
+  "file": "/Users/fashion/project/leveldb/db/version_set.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/db/write_batch.cc.o -c /Users/fashion/project/leveldb/db/write_batch.cc",
+  "file": "/Users/fashion/project/leveldb/db/write_batch.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/table/block_builder.cc.o -c /Users/fashion/project/leveldb/table/block_builder.cc",
+  "file": "/Users/fashion/project/leveldb/table/block_builder.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/table/block.cc.o -c /Users/fashion/project/leveldb/table/block.cc",
+  "file": "/Users/fashion/project/leveldb/table/block.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/table/filter_block.cc.o -c /Users/fashion/project/leveldb/table/filter_block.cc",
+  "file": "/Users/fashion/project/leveldb/table/filter_block.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/table/format.cc.o -c /Users/fashion/project/leveldb/table/format.cc",
+  "file": "/Users/fashion/project/leveldb/table/format.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/table/iterator.cc.o -c /Users/fashion/project/leveldb/table/iterator.cc",
+  "file": "/Users/fashion/project/leveldb/table/iterator.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/table/merger.cc.o -c /Users/fashion/project/leveldb/table/merger.cc",
+  "file": "/Users/fashion/project/leveldb/table/merger.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/table/table_builder.cc.o -c /Users/fashion/project/leveldb/table/table_builder.cc",
+  "file": "/Users/fashion/project/leveldb/table/table_builder.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/table/table.cc.o -c /Users/fashion/project/leveldb/table/table.cc",
+  "file": "/Users/fashion/project/leveldb/table/table.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/table/two_level_iterator.cc.o -c /Users/fashion/project/leveldb/table/two_level_iterator.cc",
+  "file": "/Users/fashion/project/leveldb/table/two_level_iterator.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/arena.cc.o -c /Users/fashion/project/leveldb/util/arena.cc",
+  "file": "/Users/fashion/project/leveldb/util/arena.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/bloom.cc.o -c /Users/fashion/project/leveldb/util/bloom.cc",
+  "file": "/Users/fashion/project/leveldb/util/bloom.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/cache.cc.o -c /Users/fashion/project/leveldb/util/cache.cc",
+  "file": "/Users/fashion/project/leveldb/util/cache.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/coding.cc.o -c /Users/fashion/project/leveldb/util/coding.cc",
+  "file": "/Users/fashion/project/leveldb/util/coding.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/comparator.cc.o -c /Users/fashion/project/leveldb/util/comparator.cc",
+  "file": "/Users/fashion/project/leveldb/util/comparator.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/crc32c.cc.o -c /Users/fashion/project/leveldb/util/crc32c.cc",
+  "file": "/Users/fashion/project/leveldb/util/crc32c.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/env.cc.o -c /Users/fashion/project/leveldb/util/env.cc",
+  "file": "/Users/fashion/project/leveldb/util/env.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/filter_policy.cc.o -c /Users/fashion/project/leveldb/util/filter_policy.cc",
+  "file": "/Users/fashion/project/leveldb/util/filter_policy.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/hash.cc.o -c /Users/fashion/project/leveldb/util/hash.cc",
+  "file": "/Users/fashion/project/leveldb/util/hash.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/logging.cc.o -c /Users/fashion/project/leveldb/util/logging.cc",
+  "file": "/Users/fashion/project/leveldb/util/logging.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/options.cc.o -c /Users/fashion/project/leveldb/util/options.cc",
+  "file": "/Users/fashion/project/leveldb/util/options.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/status.cc.o -c /Users/fashion/project/leveldb/util/status.cc",
+  "file": "/Users/fashion/project/leveldb/util/status.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/util/env_posix.cc.o -c /Users/fashion/project/leveldb/util/env_posix.cc",
+  "file": "/Users/fashion/project/leveldb/util/env_posix.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_COMPILE_LIBRARY -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb.dir/helpers/memenv/memenv.cc.o -c /Users/fashion/project/leveldb/helpers/memenv/memenv.cc",
+  "file": "/Users/fashion/project/leveldb/helpers/memenv/memenv.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldbutil.dir/db/leveldbutil.cc.o -c /Users/fashion/project/leveldb/db/leveldbutil.cc",
+  "file": "/Users/fashion/project/leveldb/db/leveldbutil.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/util/status_test.cc.o -c /Users/fashion/project/leveldb/util/status_test.cc",
+  "file": "/Users/fashion/project/leveldb/util/status_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/util/no_destructor_test.cc.o -c /Users/fashion/project/leveldb/util/no_destructor_test.cc",
+  "file": "/Users/fashion/project/leveldb/util/no_destructor_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/util/testutil.cc.o -c /Users/fashion/project/leveldb/util/testutil.cc",
+  "file": "/Users/fashion/project/leveldb/util/testutil.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/db/autocompact_test.cc.o -c /Users/fashion/project/leveldb/db/autocompact_test.cc",
+  "file": "/Users/fashion/project/leveldb/db/autocompact_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/db/corruption_test.cc.o -c /Users/fashion/project/leveldb/db/corruption_test.cc",
+  "file": "/Users/fashion/project/leveldb/db/corruption_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/db/db_test.cc.o -c /Users/fashion/project/leveldb/db/db_test.cc",
+  "file": "/Users/fashion/project/leveldb/db/db_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/db/dbformat_test.cc.o -c /Users/fashion/project/leveldb/db/dbformat_test.cc",
+  "file": "/Users/fashion/project/leveldb/db/dbformat_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/db/filename_test.cc.o -c /Users/fashion/project/leveldb/db/filename_test.cc",
+  "file": "/Users/fashion/project/leveldb/db/filename_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/db/log_test.cc.o -c /Users/fashion/project/leveldb/db/log_test.cc",
+  "file": "/Users/fashion/project/leveldb/db/log_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/db/recovery_test.cc.o -c /Users/fashion/project/leveldb/db/recovery_test.cc",
+  "file": "/Users/fashion/project/leveldb/db/recovery_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/db/skiplist_test.cc.o -c /Users/fashion/project/leveldb/db/skiplist_test.cc",
+  "file": "/Users/fashion/project/leveldb/db/skiplist_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/db/version_edit_test.cc.o -c /Users/fashion/project/leveldb/db/version_edit_test.cc",
+  "file": "/Users/fashion/project/leveldb/db/version_edit_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/db/version_set_test.cc.o -c /Users/fashion/project/leveldb/db/version_set_test.cc",
+  "file": "/Users/fashion/project/leveldb/db/version_set_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/db/write_batch_test.cc.o -c /Users/fashion/project/leveldb/db/write_batch_test.cc",
+  "file": "/Users/fashion/project/leveldb/db/write_batch_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/helpers/memenv/memenv_test.cc.o -c /Users/fashion/project/leveldb/helpers/memenv/memenv_test.cc",
+  "file": "/Users/fashion/project/leveldb/helpers/memenv/memenv_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/table/filter_block_test.cc.o -c /Users/fashion/project/leveldb/table/filter_block_test.cc",
+  "file": "/Users/fashion/project/leveldb/table/filter_block_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/table/table_test.cc.o -c /Users/fashion/project/leveldb/table/table_test.cc",
+  "file": "/Users/fashion/project/leveldb/table/table_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/util/arena_test.cc.o -c /Users/fashion/project/leveldb/util/arena_test.cc",
+  "file": "/Users/fashion/project/leveldb/util/arena_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/util/bloom_test.cc.o -c /Users/fashion/project/leveldb/util/bloom_test.cc",
+  "file": "/Users/fashion/project/leveldb/util/bloom_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/util/cache_test.cc.o -c /Users/fashion/project/leveldb/util/cache_test.cc",
+  "file": "/Users/fashion/project/leveldb/util/cache_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/util/coding_test.cc.o -c /Users/fashion/project/leveldb/util/coding_test.cc",
+  "file": "/Users/fashion/project/leveldb/util/coding_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/util/crc32c_test.cc.o -c /Users/fashion/project/leveldb/util/crc32c_test.cc",
+  "file": "/Users/fashion/project/leveldb/util/crc32c_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/util/hash_test.cc.o -c /Users/fashion/project/leveldb/util/hash_test.cc",
+  "file": "/Users/fashion/project/leveldb/util/hash_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/leveldb_tests.dir/util/logging_test.cc.o -c /Users/fashion/project/leveldb/util/logging_test.cc",
+  "file": "/Users/fashion/project/leveldb/util/logging_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/c_test.dir/util/testutil.cc.o -c /Users/fashion/project/leveldb/util/testutil.cc",
+  "file": "/Users/fashion/project/leveldb/util/testutil.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -Wstrict-prototypes -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c11 -o CMakeFiles/c_test.dir/db/c_test.c.o -c /Users/fashion/project/leveldb/db/c_test.c",
+  "file": "/Users/fashion/project/leveldb/db/c_test.c"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/env_posix_test.dir/util/testutil.cc.o -c /Users/fashion/project/leveldb/util/testutil.cc",
+  "file": "/Users/fashion/project/leveldb/util/testutil.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/env_posix_test.dir/util/env_posix_test.cc.o -c /Users/fashion/project/leveldb/util/env_posix_test.cc",
+  "file": "/Users/fashion/project/leveldb/util/env_posix_test.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -I/Users/fashion/project/leveldb/third_party/benchmark/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/db_bench.dir/util/histogram.cc.o -c /Users/fashion/project/leveldb/util/histogram.cc",
+  "file": "/Users/fashion/project/leveldb/util/histogram.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -I/Users/fashion/project/leveldb/third_party/benchmark/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/db_bench.dir/util/testutil.cc.o -c /Users/fashion/project/leveldb/util/testutil.cc",
+  "file": "/Users/fashion/project/leveldb/util/testutil.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -I/Users/fashion/project/leveldb/third_party/benchmark/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/db_bench.dir/benchmarks/db_bench.cc.o -c /Users/fashion/project/leveldb/benchmarks/db_bench.cc",
+  "file": "/Users/fashion/project/leveldb/benchmarks/db_bench.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -I/Users/fashion/project/leveldb/third_party/benchmark/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/db_bench_sqlite3.dir/util/histogram.cc.o -c /Users/fashion/project/leveldb/util/histogram.cc",
+  "file": "/Users/fashion/project/leveldb/util/histogram.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -I/Users/fashion/project/leveldb/third_party/benchmark/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/db_bench_sqlite3.dir/util/testutil.cc.o -c /Users/fashion/project/leveldb/util/testutil.cc",
+  "file": "/Users/fashion/project/leveldb/util/testutil.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DLEVELDB_PLATFORM_POSIX=1 -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/include -I/Users/fashion/project/leveldb/third_party/benchmark/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Werror -Wthread-safety -std=c++11 -o CMakeFiles/db_bench_sqlite3.dir/benchmarks/db_bench_sqlite3.cc.o -c /Users/fashion/project/leveldb/benchmarks/db_bench_sqlite3.cc",
+  "file": "/Users/fashion/project/leveldb/benchmarks/db_bench_sqlite3.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/googletest/googlemock",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/googletest/googlemock/include -I/Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/fashion/project/leveldb/third_party/googletest/googlemock/src/gmock-all.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/googletest/googlemock",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googlemock -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/fashion/project/leveldb/third_party/googletest/googlemock/src/gmock_main.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/googletest/googletest",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/googletest/googletest/include -I/Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/fashion/project/leveldb/third_party/googletest/googletest/src/gtest-all.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/googletest/googletest",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest/include -isystem /Users/fashion/project/leveldb/third_party/googletest/googletest  -fno-exceptions -fno-rtti -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/fashion/project/leveldb/third_party/googletest/googletest/src/gtest_main.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/benchmark.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/benchmark.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/benchmark.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/benchmark_api_internal.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/benchmark_api_internal.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/benchmark_api_internal.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/benchmark_name.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/benchmark_name.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/benchmark_name.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/benchmark_register.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/benchmark_register.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/benchmark_register.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/benchmark_runner.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/benchmark_runner.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/benchmark_runner.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/check.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/check.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/check.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/colorprint.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/colorprint.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/colorprint.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/commandlineflags.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/commandlineflags.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/commandlineflags.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/complexity.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/complexity.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/complexity.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/console_reporter.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/console_reporter.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/console_reporter.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/counter.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/counter.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/counter.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/csv_reporter.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/csv_reporter.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/csv_reporter.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/json_reporter.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/json_reporter.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/json_reporter.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/perf_counters.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/perf_counters.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/perf_counters.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/reporter.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/reporter.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/reporter.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/statistics.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/statistics.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/statistics.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/string_util.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/string_util.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/string_util.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/sysinfo.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/sysinfo.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/sysinfo.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark.dir/timers.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/timers.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/timers.cc"
+},
+{
+  "directory": "/Users/fashion/project/leveldb/build/third_party/benchmark/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -DHAVE_THREAD_SAFETY_ATTRIBUTES -I/Users/fashion/project/leveldb/build/include -I/Users/fashion/project/leveldb/. -I/Users/fashion/project/leveldb/third_party/benchmark/include -I/Users/fashion/project/leveldb/third_party/benchmark/src  -fno-exceptions -fno-rtti  -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -Wshorten-64-to-32  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing  -Wthread-safety -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fvisibility=hidden -fvisibility-inlines-hidden -std=c++11 -o CMakeFiles/benchmark_main.dir/benchmark_main.cc.o -c /Users/fashion/project/leveldb/third_party/benchmark/src/benchmark_main.cc",
+  "file": "/Users/fashion/project/leveldb/third_party/benchmark/src/benchmark_main.cc"
+}
+]
